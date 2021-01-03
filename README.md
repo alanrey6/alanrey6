@@ -6,7 +6,7 @@
 - Python
 
 ## ⚡ Fun fact:
-- I speak a pretty good spanish and am trying to learn french currently as well. My dream is to be a polyglot
+- I speak a pretty good spanish and am trying to learn french as well. My dream is to be a polyglot
 
 <!--
 **alanrey6/alanrey6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
