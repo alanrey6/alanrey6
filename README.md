@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, my name is Alan 👋 I like to dream big 🌃
+## 🌱 I’m currently learning:
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## ⚡ Fun fact:
+- I speak a pretty good spanish and am trying to learn french currently as well. My dream is to be a polyglot
 
 <!--
 **alanrey6/alanrey6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
